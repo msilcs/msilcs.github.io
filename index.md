@@ -8,4 +8,4 @@ Here are several examples of previous programs I have worked on, both as part of
 - 2D game programming using Spritekit in Swift
 
 ### A working example
-__This link__ leads to a complete example of my work in the form of a basic chess application.
+__This link__ leads to a complete example of my work in the form of a basic chess application written in C++.
