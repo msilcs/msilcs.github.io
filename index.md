@@ -8,7 +8,7 @@ Here are several examples of programming tasks I have worked on, both as part of
   This code snippet is part of a program written to merge hadron collision event data in order to simulate a rare process.
 
 ### - Neural network training and testing in Python
-  ![MLP example image](https://github.com/msilcs/msilcs.github.io/blob/master/MLP_example.png)
+  ![MLP example image](https://msilcs.github.io/MLP_example.png)
   
   The above image displays the output of a multilayer perceptron classifier trained to discriminate between two similar particle physics processes with an accuracy of 91%.
   
