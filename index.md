@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Previous projects
-Here are several examples of programs I have worked on, both as part of my degree and in my spare time.
+Here are several examples of programming tasks I have worked on, both as part of my degree and in my spare time.
 
 - Event mixing for particle physics in C++
 
