@@ -10,4 +10,4 @@ Here are several examples of programs I have worked on, both as part of my degre
 - 2D game programming using Spritekit in Swift
 
 ### A working example
-[__This link__]() leads to a complete example of my work in the form of a basic chess application written in C++.
+[__This link__](https://github.com/msilcs/Object_Oriented_Chess_Program) leads to a complete example of my work in the form of a basic chess application written in C++.
