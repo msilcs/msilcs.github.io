@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Previous projects
-Here are several examples of previous programs I have worked on, both as part of my degree and in my spare time.
+Here are several examples of programs I have worked on, both as part of my degree and in my spare time.
 
 - Event mixing for particle physics in C++
 
@@ -10,4 +10,4 @@ Here are several examples of previous programs I have worked on, both as part of
 - 2D game programming using Spritekit in Swift
 
 ### A working example
-__This link__ leads to a complete example of my work in the form of a basic chess application written in C++.
+[__This link__]() leads to a complete example of my work in the form of a basic chess application written in C++.
