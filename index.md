@@ -4,7 +4,7 @@
 Here are several examples of programming tasks I have worked on, both as part of my degree and in my spare time.
 
 ### - Event mixing for particle physics in C++
-  <img src="Screenshot 2020-07-01 at 13.07.39.png" alt = "Event mixing example" width="450"/>
+  <img src="images/Screenshot 2020-07-01 at 13.07.39.png" alt = "Event mixing example" width="450"/>
 
   This code snippet is part of a program written to merge hadron collision event data in order to simulate a rare process.
 
