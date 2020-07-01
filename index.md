@@ -15,7 +15,7 @@ Here are several examples of programming tasks I have worked on, both as part of
 ### - Morse code application in Swift
   <img src="images/IMG_8566.PNG" alt="Morse UI" width="200"/>
 
-  In my spare time, I have been learning the Swift programming language to test my ability to adapt and to apply my skills in new ways. The above image is the user interface of a mobile app I developed in order to translate user text input into Morse code, and to transmit this encoded message using the device's camera flash.
+  In my spare time, I have been learning the Swift programming language to test my ability to adapt and to apply my skills in new ways. The above image is the user interface of a mobile app I developed in order to translate user text input into Morse code, and to transmit this encoded message using the device's camera flash. The encoded text is displayed in the lower white text field.
     
 ### - 2D game programming using Spritekit in Swift
 
