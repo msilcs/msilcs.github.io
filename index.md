@@ -6,7 +6,7 @@
 [__This link__](https://github.com/msilcs/Object_Oriented_Chess_Program) leads to a complete example of my work in the form of a command line chess application written in C++.
 
 ## Other previous projects
-The programming tasks summarised below were completed both as part of my degree and in my spare time.
+The project examples summarised below were completed both as part of my degree and in my spare time.
 
 ### - Event mixing for particle physics in C++
   <img src="images/Screenshot 2020-07-01 at 13.07.39.png" alt = "Event mixing example" width="550"/>
