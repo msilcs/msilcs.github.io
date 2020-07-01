@@ -10,7 +10,7 @@ Here are several examples of programming tasks I have worked on, both as part of
 ### - Neural network training and testing in Python
   ![MLP example image](images/MLP_example.png)
   
-  The above histogram displays the output of a multilayer perceptron classifier trained to discriminate between two similar particle physics processes with an accuracy of 91%. The x-axis represents the predicted probability of a particular event being of the type referred to as "DPS MC".
+  The above histogram displays the output of a multi-layer perceptron classifier trained to discriminate between two similar particle physics processes with an accuracy of 91%. The x-axis represents the predicted probability of a particular event being of the type referred to as "DPS MC".
   
 ### - Morse code application in Swift
 
