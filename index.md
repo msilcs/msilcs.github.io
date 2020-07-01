@@ -1,6 +1,9 @@
 # Portfolio
 
-## Previous projects
+## A working example
+[__This link__](https://github.com/msilcs/Object_Oriented_Chess_Program) leads to a complete example of my work in the form of a command line chess application written in C++.
+
+## Other previous projects
 The programming tasks summarised below were completed both as part of my degree and in my spare time.
 
 ### - Event mixing for particle physics in C++
@@ -22,6 +25,3 @@ The programming tasks summarised below were completed both as part of my degree 
   <img src="images/Screenshot 2020-07-01 at 13.18.02.png" alt = "Game program example" width="500"/>
 
   Furthermore, I have used the Spritekit framework to teach myself concepts related to game development. An extract of the underlying code for a 2D mobile game I am currently developing is presented above.
-
-## A working example
-[__This link__](https://github.com/msilcs/Object_Oriented_Chess_Program) leads to a complete example of my work in the form of a command line chess application written in C++.
