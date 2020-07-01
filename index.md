@@ -6,7 +6,7 @@ Here are several examples of programming tasks I have worked on, both as part of
 ### - Event mixing for particle physics in C++
   <img src="images/Screenshot 2020-07-01 at 13.07.39.png" alt = "Event mixing example" width="550"/>
 
-  This code snippet is part of a program written to merge hadron collision event data in order to simulate a rare process. This required writing code to merge and restructure large data files using pseudorandom number pairs to select the particle collision data to be used.
+  This code snippet is part of a program written to merge hadron collision event data in order to simulate a rare process. This required writing code to merge and restructure large data files using pseudorandom number pairs to select particle data as required.
 
 ### - Neural network training and testing in Python
   <img src="images/MLP_example.png" alt = "Neural network example" width="500"/>
