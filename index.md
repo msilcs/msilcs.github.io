@@ -2,6 +2,7 @@
 
 ## A working example
   <img src = "images/Screenshot 2020-07-01 at 16.19.48.png" alt = "Chessboard" width = "250"/>
+  
 [__This link__](https://github.com/msilcs/Object_Oriented_Chess_Program) leads to a complete example of my work in the form of a command line chess application written in C++.
 
 ## Other previous projects
