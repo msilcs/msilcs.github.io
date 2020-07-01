@@ -13,7 +13,7 @@ Here are several examples of programming tasks I have worked on, both as part of
   The above histogram displays the output of a multi-layer perceptron classifier trained to discriminate between two similar particle physics processes with an accuracy of 91%. The x-axis represents the predicted probability of a particular event being of the type referred to as "DPS MC".
   
 ### - Morse code application in Swift
-  ![Morse UI](images/IMG_8566.PNG)
+  <img src="images/IMG_8566.PNG" alt="Morse UI" width="200"/>
 
   In my spare time, I have been learning the Swift programming language to test my ability to adapt and to apply my skills in new ways. The above image is the user interface of a mobile app I developed in order to translate user text input into Morse code, and to transmit this encoded message using the device's camera flash.
     
